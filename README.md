@@ -1,35 +1,30 @@
 # Robert Dörries
 
-20, Berlin. Ich baue KI-Workflows, Automations und produktnahe AI-Tools dort, wo aus einem unklaren Prozess ein testbarer Workflow werden soll.
+Ich arbeite an KI-Einführung, Automatisierung und kundennahe Lösungsentwicklung.
 
-Mein Profil liegt bei **AI Implementation & Automation**: Kundenproblem verstehen, passenden Workflow bauen oder einführen, Grenzen sauber benennen und das Ergebnis so dokumentieren, dass andere es prüfen können. Ich komme nicht aus dem klassischen Software-Engineer-Pfad, arbeite aber sehr intensiv AI-assisted mit Code, Tools, Demos und Produktflows.
+Mich interessiert der Punkt, an dem aus einem echten Arbeitsproblem ein nutzbarer Ablauf wird: Gespräch verstehen, Engpass finden, Werkzeug oder Eigenbau entscheiden, Testlauf planen, Ergebnis prüfen und sauber übergeben.
 
-## Drei Hauptcases
+## Drei Hauptprojekte
 
-| Case | Was es zeigt | Link |
+| Projekt | Was es zeigt | Öffentliche Unterlage |
 | --- | --- | --- |
-| **FotoKalk** | Shipped product proof: Web-App für Angebots- und Kalkulationsflows im Maler-/Handwerkskontext. | [fotokalk.de](https://fotokalk.de) · [app.fotokalk.de](https://app.fotokalk.de) |
-| **Kivola** | Customer-facing AI-Adoption-System: Discovery, Prozessanalyse, Toolauswahl, Roadmap, Pilotplan und Handoff. | [kivola-ai-adoption](https://github.com/ro-sketch12/kivola-ai-adoption) |
-| **OpenClaw / Klause** | Agent-Architektur: Rollen, Permissions, synthetische Traces, Threat Model und Review-Gates. | [robert-systems-agents](https://github.com/ro-sketch12/robert-systems-agents) |
+| FotoKalk | Produktablauf aus einem Handwerkerproblem | Angebotsentwurf mit Demo-Daten, Ablaufdiagramm, bekannte Grenzen |
+| Kivola | KI-Fahrplan aus Kundengespräch | Fahrplan-Vorschau, Priorisierung, Werkzeugauswahl, Testlauf |
+| Klause auf OpenClaw | Agentenabläufe mit Freigaben | Rollen, Rechte, Beispielablauf, Stopps vor externen Aktionen |
 
-Die private Seite dieser Projekte bleibt privat: keine Kundendaten, keine Rohlogs, keine echten Prompts, keine internen Strategien.
+Hinweis: keine Live-Repo-Links vor Public-Go. Die Links werden erst ergänzt, wenn die drei Clean-Repos frisch veröffentlicht und geprüft sind, `LIVE PUBLIC SURFACE GATE: PASS` vorliegt und das formale `public-apply` Gate `RUN GATE: PASS` sagt.
 
-## Links
+## Wie ich arbeite
 
-- Portfolio: [robert-systems.com](https://robert-systems.com)
-- FotoKalk: [github.com/ro-sketch12/Fotokalk](https://github.com/ro-sketch12/Fotokalk)
-- Kivola: [github.com/ro-sketch12/kivola-ai-adoption](https://github.com/ro-sketch12/kivola-ai-adoption)
-- Agenten-System: [github.com/ro-sketch12/robert-systems-agents](https://github.com/ro-sketch12/robert-systems-agents)
+- Kundenproblem zuerst, Werkzeug danach.
+- Kleine Testläufe statt großer Behauptungen.
+- KI-Unterstützung transparent nutzen, ohne klassische Coding-Erfahrung zu überclaimen.
+- Private Daten und Originalunterlagen bleiben aus öffentlichen Repos heraus.
 
-## Was ich suche
+## Wonach ich suche
 
-Teams, bei denen KI praktisch in bestehende oder neue Workflows gebracht wird:
+Rollen im Bereich KI-Einführung, Arbeitsablauf-Automatisierung, AI Operations und kundennahe Umsetzung. Besonders passend sind kleine Teams mit klaren Zielen, kurzen Abstimmungen und Raum für eigenständige Umsetzung.
 
-- KI-Implementation
-- Workflow-Automation
-- AI-Adoption
-- Customer-facing AI Systems
-- AI Tooling / AI Builder Rollen
-- kleine bis mittlere Teams in Berlin oder 100% Remote
+## Öffentliche Grenze
 
-Kontakt: roderes@outlook.de
+Dieses Profil soll die kuratierten Projektunterlagen einordnen. Öffentliche Repos zeigen Demo-Unterlagen und Arbeitsweise; Originalmaterial, Zugangsdaten und private Geschäftsdaten bleiben intern.
